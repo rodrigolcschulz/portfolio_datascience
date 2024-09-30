@@ -1,4 +1,4 @@
-# RodProject
+# Portifolio Rodrigo Schulz
 ## Este repositório possui notebooks de variados temas para análise e aplicação de aprendizado de máquina
 - Doença coração
 - Reconhecimento usando Smartphone
