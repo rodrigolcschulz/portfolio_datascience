@@ -1,6 +1,6 @@
 # Portifolio Rodrigo Schulz
 ## Este repositório possui notebooks de variados temas para análise e aplicação de aprendizado de máquina
-- Doença coração
+- Classificação de Doença do Coração
 - Reconhecimento usando Smartphone
 - Classificação de crédito
 - Inadimplência
