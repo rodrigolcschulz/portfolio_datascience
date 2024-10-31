@@ -10,6 +10,7 @@
 - Nascidos SUS
 - Classificação qualidade do vinho
 - Precificação casas California 1990
+- Modelando Regressão Linear
 
 https://github.com/rodrigolcschulz/RodProject/assets/125701676/3fcfc789-886c-4257-9797-9562f66b1306
 
