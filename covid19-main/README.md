@@ -1,5 +1,5 @@
 # covid19 data analysis
 
 
-https://github.com/rodrigolcschulz/covid19/assets/125701676/4c796f9d-e425-4fed-93a5-78e96953ae25
 
+https://github.com/user-attachments/assets/327049d7-afc4-4908-8cf6-92f3febc09e0
