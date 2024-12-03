@@ -2,5 +2,5 @@
 
 
 
-https://github.com/rodrigolcschulz/pca/assets/125701676/5d56ea70-96ec-4cda-8517-622fd4efb1b5
+https://github.com/user-attachments/assets/7708c8d9-33d2-48e5-b2de-dcc16d29efdd
 
