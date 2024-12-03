@@ -2,5 +2,5 @@
 
 
 
-https://github.com/rodrigolcschulz/inferencia/assets/125701676/01753de3-1ccb-4b85-8461-a2ab190544f1
+https://github.com/user-attachments/assets/46b36b0c-8be8-4eb3-a18a-9535c805859a
 
