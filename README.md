@@ -18,6 +18,7 @@
 - AB Testing e-mail subscription
 - Keras Segmentation TensorFlow_Hub
 - Inference Object Detection Tensorflow
+- Open CV
 
 
 https://github.com/user-attachments/assets/b5033cd7-1862-4071-a65d-c508cab1af87
