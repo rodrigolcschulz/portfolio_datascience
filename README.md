@@ -19,6 +19,7 @@
 - Keras Segmentation TensorFlow_Hub
 - Inference Object Detection Tensorflow
 - Open CV
+- Deep Learning
 
 
 https://github.com/user-attachments/assets/b5033cd7-1862-4071-a65d-c508cab1af87
