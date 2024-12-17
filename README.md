@@ -1,4 +1,4 @@
-# Portfolio Rodrigo Schulz
+# Portfolio Rodrigo Schulz 🧠
 ## Este repositório possui notebooks de variados temas para análise e aplicação de aprendizado de máquina
 - Classificação de Doença do Coração
 - Reconhecimento usando Smartphone
