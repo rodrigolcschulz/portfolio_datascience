@@ -11,13 +11,7 @@
 - Classificação qualidade do vinho
 - Precificação casas California 1990
 - Modelando Regressão Linear
-- MNIST Digit Classification using MLP
-- CIFAR-10 Classification using CNN
-- Image Classification using Pre-Trained ImageNet Models
-- Keras Fine Tune Pre Trained Models GTSRB
 - AB Testing e-mail subscription
-- Keras Segmentation TensorFlow_Hub
-- Inference Object Detection Tensorflow
 - Open CV
 - Deep Learning
 
