@@ -14,6 +14,7 @@
 - AB Testing e-mail subscription
 - Open CV
 - Deep Learning
+- LLMs
 
 
 https://github.com/user-attachments/assets/b5033cd7-1862-4071-a65d-c508cab1af87
